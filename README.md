@@ -24,9 +24,10 @@ Este proyecto es una API de un sistema de ecommerce desarrollado con **Spring Bo
 
 ### Prerrequisitos
 
-- **Java 17**
-- **JDK 20**
-- **SQL SERVER** 
+- Java 17
+- JDK 20
+- SQL SERVER
+- Tener la base de datos ya creada
 
 ### Pasos de Instalación
 
